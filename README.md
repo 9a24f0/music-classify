@@ -25,7 +25,7 @@ some brief explain
 ### K-nearest neighbors
 `folder : /knn`
 
-some brief explain
+K-Nearest Neighbors is a popular machine learning algorithm for regression and classification. It makes predictions on data points based on their similarity measures i.e distance between them.
 
 ### Convolutional neural networks
 `folder : /cnn`
