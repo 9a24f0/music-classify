@@ -42,4 +42,12 @@ K-Nearest Neighbors is a popular machine learning algorithm for regression and c
 ### Convolutional neural networks
 `folder : /cnn`
 
-some brief explain
+***What is CNN***:
+
+Convolutional neural networks(CNNs) are made up of layers of neurons that have learnable weights and biases. Each neuron receives some inputs, performs a dot product and optionally follows it with a non-linearity.
+
+The architecture of CNN (not including *input layer*) commonly contains 3 type of layers : convolutional layer, pooling layer and fully-connected layer(output). Some may contains normalization layer. The most simple CNN architecture is:
+```
+INPUT -> CONV -> POOL -> FC
+```
+
