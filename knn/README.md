@@ -3,10 +3,10 @@
 ## Steps to build Music Genre Classification using KNN:
 
 #### 1. Define a function to get the distance between feature vectors and find neighbors
-Calculate distance between feature vectors so that we can find the neighbors by selecting k subsets with the smallest distance
+Calculate distance between feature vectors so that we can find the k-neighbors by selecting k subsets with the smallest distance
 
 #### 2. Identify the nearest neighbors
-From the neighbors get the nearest one
+From the neighbors get the nearest one. These k-neighbors already have their classes labeled, so we will do the majority voting. So out of these k-neighbors, we directly see the majority class and whatever be the majority class, becomes the predicted class
 
 #### 3. Define a function for model evaluation    
 Calculate the accuracy of the predictions `accuracy = 1.0*correct/len(testSet)`
