@@ -1,7 +1,7 @@
 # Music Genre Classification
 
 The project is attempt to classify music genre using 4 approaches:
-- Multiclass support vector machines (MSVM)
+- Multiclass classification using support vector machines (MCSVM)
 - K-means clustering (KMC)
 - K-nearest neighbors (KNN)
 - Convolutional neural networks (CNN)
