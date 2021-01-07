@@ -57,7 +57,4 @@ print("y_pred: {}\n".format(y_test))
 print("y_test: {}\n".format(y_test))
 print("Predict accuracy:", accuracy)
 
-# please delete these comment and add to your colab, rephrasing is your work:
-# the accuracy is inconsistent as we continuously run the script
-# since cluster might differs with different mfcc train sets
 
