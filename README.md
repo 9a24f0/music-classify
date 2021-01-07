@@ -32,8 +32,7 @@ In its most simple type, SVM doesn’t support multiclass classification nativel
 ### K-mean clustering
 `folder : /kmc`
 
-some brief explain
-
+K-mean clustering is unsupervised learning type, using unlabeled data. This method is simpler compared to NN, but less precision since the data used is unsupervised. The method take each genre as a cluster. The centroid of a cluster is a collection of feature values which are the resulting of the genre.
 ### K-nearest neighbors
 `folder : /knn`
 
