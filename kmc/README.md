@@ -13,8 +13,8 @@ Using `librosa` librosa to extract the data set, the dataset used is `gtzan` dat
 
 ## 3. Prepare the data
 Split the data into:
-- **train set**: 40% of the dataset
-- **test set**: 40% of the dataset
+- **train set**: 80% of the dataset
+- **test set**: 20% of the dataset
 
 Using 100% dataset give much lower rate than other method
 
