@@ -18,5 +18,5 @@ Split the data into:
 ## 5. Train the data with KMC model
 
 ## 6. Evaluate the model
-The model is evaluated by train/test accuracy.
-The accuracy is inconsistent as we continuously run the script since cluster might differs with different mfcc train sets
+- The model is evaluated by train/test accuracy.
+- The accuracy is inconsistent as we continuously run the script since cluster might differs with different mfcc train sets
