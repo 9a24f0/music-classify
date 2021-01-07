@@ -6,7 +6,7 @@
 ## 1. Extract MFCC features
 Using `librosa` librosa to extract the data set, the dataset used is `gtzan` dataset
 
-## 2. Create the k-means cluster
+## 2. Create the K-means cluster
 - Using `parseAudio` function,reading the file extracted by MFCC
 - Labels different genres as subDir
 
